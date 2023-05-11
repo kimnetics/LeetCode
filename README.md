@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode Solutions
+
+A collection of my solutions from [LeetCode](https://leetcode.com/).
