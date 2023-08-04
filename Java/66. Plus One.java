@@ -19,7 +19,6 @@ class Solution {
         if (carry) {
             int[] output = new int[digits.length + 1];
             output[0] = 1;
-            System.arraycopy(digits, 0, output, 1, digits.length);
             return output;
         } else {
             return digits;
